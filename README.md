@@ -3,7 +3,7 @@ surfeit
 
 the abundant-revisioning system
 
-# the difference> revisioning vs revision
+# the difference: revisioning vs revision
 
 
 - a **revision** is an update or ammendment to a history `||` timeline of code
